@@ -1,0 +1,8 @@
+.text-pink-500 {
+	--tw-text-opacity: 1;
+	color: #3769bf;
+}
+.hover\:text-pink-700:hover {
+ --tw-text-opacity:1;
+ color:#0f58d6;
+}
